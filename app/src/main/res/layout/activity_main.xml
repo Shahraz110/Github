@@ -11,7 +11,7 @@
     tools:context="com.example.shahrazali.github.MainActivity">
 
     <TextView
-        android:text="Github Button"
+        android:text="Github Button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
